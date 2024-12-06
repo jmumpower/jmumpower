@@ -16,23 +16,26 @@ Welcome to my GitHub profile! I’m a creative and detail-oriented **full-stack 
 
 ### 🎓 **Education and Certifications**  
 #### IBM Full Stack Software Developer Certificate – Coursera  
-**Key Courses:**  
-- Developing Front-End Apps with React  
-- Developing Back-End Apps with Node.js and Express  
-- Application Development using Microservices and Serverless  
-- Django Application Development with SQL and Databases  
-- Developing AI Applications with Python and Flask  
+**Courses:**  
+- Introduction to Software Engineering
+- Introduction to Cloud Computing
 - Introduction to HTML, CSS, & JavaScript  
-- Introduction to Containers with Docker, Kubernetes, and OpenShift  
-- Full Stack Application Development Capstone Project  
-- Generative AI: Elevate your Software Development Career  
+- Getting Started with Git & GitHub  
+- Developing Front-End Apps with React  
+- Developing Back-End Apps with Node.js and Express 
+- Python for Data Science, AI & Development  
+- Developing AI Applications with Python and Flask  
+- Django Application Development with SQL and Databases 
+- Introduction to Containers w/ Docker, Kubernetes & OpenShift
+- Application Development using Microservices and Serverless
+- Full Stack Application Development Capstone Project
+- Full Stack Software Developer Assessment
+- Generative AI: Elevate your Software Development Career
+- Software Developer Career Guide and Interview Preparation 
 
 #### Other Courses:  
-- **Introduction to Cybersecurity Fundamentals** – Coursera  
 - **Learning How to Learn: Powerful mental tools to help you master tough subjects** – Coursera  
-- **Introduction to Cloud Computing** – Coursera  
-- **Python for Data Science, AI, & Development** – Coursera  
-- **Software Developer Career Guide and Interview Preparation** – Coursera  
+- **Introduction to Cybersecurity Fundamentals** – Coursera  
 
 ---
 
@@ -59,7 +62,7 @@ Welcome to my GitHub profile! I’m a creative and detail-oriented **full-stack 
 
 ### 📫 **How to Reach Me**  
 - Email: [jenellemumpower@icloud.com](mailto:jenellemumpower@icloud.com)  
-- LinkedIn: [linkedin.com/in/jenelle-mumpower-9a030b27a](https://linkedin.com/in/jenelle-mumpower-9a030b27a)  
+- LinkedIn: [linkedin.com/in/jenelle-mumpower-9a030b27a](https://linkedin.com/in/jenelle-mumpower-9a030b27a)
 
 ---
 
